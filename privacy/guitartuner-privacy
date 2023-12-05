@@ -19,27 +19,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.18.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-    <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+    <meta name="description" content="Privacy Policy BobeLab built the GuitarTuner app as a Free app. This SERVICE is provided by BobeLab at no cost and is intended for use as is. This page is used to inform visitors regarding my policies">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
-<meta property="og:url" content="http://example.com/uncategorized/hello-world">
+<meta property="og:title" content="guitartuner-privacy">
+<meta property="og:url" content="http://example.com/privacy/guitartuner-privacy">
 <meta property="og:site_name" content="BobeLab">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta property="og:description" content="Privacy Policy BobeLab built the GuitarTuner app as a Free app. This SERVICE is provided by BobeLab at no cost and is intended for use as is. This page is used to inform visitors regarding my policies">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2023-11-30T06:02:45.829Z">
-<meta property="article:modified_time" content="2023-11-30T06:02:45.829Z">
+<meta property="article:published_time" content="2023-12-05T02:03:08.000Z">
+<meta property="article:modified_time" content="2023-12-05T02:03:58.646Z">
 <meta property="article:author" content="bobelab">
+<meta property="article:tag" content="privacy">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/uncategorized/hello-world">
+<link rel="canonical" href="http://example.com/privacy/guitartuner-privacy">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/uncategorized/hello-world","path":"uncategorized/hello-world","title":"Hello World"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/privacy/guitartuner-privacy","path":"privacy/guitartuner-privacy","title":"guitartuner-privacy"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Hello World | BobeLab</title>
+<title>guitartuner-privacy | BobeLab</title>
   
 
 
@@ -98,7 +99,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+    <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           Table of Contents
@@ -111,7 +112,6 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -162,7 +162,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/uncategorized/hello-world">
+    <link itemprop="mainEntityOfPage" href="http://example.com/privacy/guitartuner-privacy">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -175,12 +175,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="Hello World | BobeLab">
+      <meta itemprop="name" content="guitartuner-privacy | BobeLab">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Hello World
+          guitartuner-privacy
         </h1>
 
         <div class="post-meta-container">
@@ -190,8 +190,18 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">Posted on</span>
+      
 
-      <time title="Created: 2023-11-30 14:02:45" itemprop="dateCreated datePublished" datetime="2023-11-30T14:02:45+08:00">2023-11-30</time>
+      <time title="Created: 2023-12-05 10:03:08 / Modified: 10:03:58" itemprop="dateCreated datePublished" datetime="2023-12-05T10:03:08+08:00">2023-12-05</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/privacy/" itemprop="url" rel="index"><span itemprop="name">privacy</span></a>
+        </span>
     </span>
 
   
@@ -203,19 +213,38 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <div class="post-body" itemprop="articleBody"><p><strong>Privacy Policy</strong></p>
+<p>BobeLab built the GuitarTuner app as a Free app. This SERVICE is provided by BobeLab at no cost and is intended for use as is.</p>
+<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
+<p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at GuitarTuner unless otherwise defined in this Privacy Policy.</p>
+<p><strong>Information Collection and Use</strong></p>
+<p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.</p>
+<p><strong>Log Data</strong></p>
+<p>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.</p>
+<p>This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
+<p><strong>Service Providers</strong></p>
+<p>I may employ third-party companies and individuals due to the following reasons:</p>
+<ul>
+<li>To facilitate our Service;</li>
+<li>To provide the Service on our behalf;</li>
+<li>To perform Service-related services; or</li>
+<li>To assist us in analyzing how our Service is used.</li>
+</ul>
+<p>I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+<p><strong>Security</strong></p>
+<p>I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</p>
+<p><strong>Links to Other Sites</strong></p>
+<p>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+<p><strong>Children’s Privacy</strong></p>
+<p>I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and&#x2F;or Services. I encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and&#x2F;or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and&#x2F;or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).</p>
+<p><strong>Changes to This Privacy Policy</strong></p>
+<p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>This policy is effective as of 2023-12-05</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a href="mailto:&#122;&#104;&#x75;&#120;&#x62;&#x32;&#50;&#55;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#122;&#104;&#x75;&#120;&#x62;&#x32;&#50;&#55;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#x6d;</a>.</p>
 
     </div>
 
@@ -224,16 +253,19 @@
     
 
     <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/privacy/" rel="tag"># privacy</a>
+          </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
+                <a href="/uncategorized/hello-world" rel="prev" title="Hello World">
+                  <i class="fa fa-angle-left"></i> Hello World
+                </a>
             </div>
             <div class="post-nav-item">
-                <a href="/privacy/guitartuner-privacy" rel="next" title="guitartuner-privacy">
-                  guitartuner-privacy <i class="fa fa-angle-right"></i>
-                </a>
             </div>
           </div>
     </footer>
