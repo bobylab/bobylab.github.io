@@ -1,10 +1,14 @@
 ---
-title: privacy
-date: 2023-12-05 08:28:12
+title: guitartuner-privacy
+date: 2023-12-05 10:03:08
+tags:
+- p
+categories:
+- c
 ---
 **Privacy Policy**
 
-Bobelab built the GuitarTuner app as a Free app. This SERVICE is provided by Bobelab at no cost and is intended for use as is.
+BobeLab built the GuitarTuner app as a Free app. This SERVICE is provided by BobeLab at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
